@@ -7,7 +7,7 @@
 body {
     background-color: #d9dcd6;
 }
-
+/* This element provides the header text */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -50,7 +50,9 @@ p {
     font-size: 16px;
 }
 
+/* This element provides the background image */
 .hero {
+    position: relative;
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
@@ -187,7 +189,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* This element provides the footer styling */
 .footer {
     padding: 30px;
     clear: both;
