@@ -117,3 +117,6 @@ You are required to submit the following for review:
 * The URL of the deployed application.
 
 * The URL of the GitHub repository, with a unique name and a README that describes the project.
+
+---
+© 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
