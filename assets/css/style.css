@@ -35,12 +35,12 @@ body {
     display: inline-block;
     margin-left: 25px;
 }
-
+/* A Tag color and decoration*/
 a {
     color: #ffffff;
     text-decoration: none;
 }
-
+/*paragraph tag font size*/
 p {
     font-size: 16px;
 }
